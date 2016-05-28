@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub repository!
+My first GitHub repository! I'm learning how to use Github as a tool to track my progress on #30DaysofCode. Wish me luck...
